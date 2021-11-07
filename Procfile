@@ -1,1 +1,2 @@
-worker: waitress-serve --listen=*:8000 nurture.wsgi:application
+
+web: python manage.py runserver 0.0.0.0:$PORT --noreload
