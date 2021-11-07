@@ -2,3 +2,4 @@ dj_database_url==0.5.0
 Django==2.2
 djangorestframework==3.12.4
 PyJWT==2.3.0
+django-corsheaders
