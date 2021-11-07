@@ -3,3 +3,4 @@ Django==2.2
 djangorestframework==3.12.4
 PyJWT==2.3.0
 django-cors-headers
+psycopg2
