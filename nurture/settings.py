@@ -145,5 +145,5 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 AUTH_USER_MODEL = 'first.User'
 
-APPEND_SLASH=False
+
 
